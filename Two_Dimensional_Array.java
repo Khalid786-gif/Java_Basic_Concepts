@@ -69,8 +69,8 @@ public static void main(String[] args) {
 	/*Additional Info : Explanation - Arrays.toString(numbers)
 		* Arrays is a class in the java.util package that provides various utility methods for working with arrays.  
 		* toString(numbers) is a static method of the Arrays class that takes an array as an argument and returns 
-                * a string representation of that array.*/
+  		* a string representation of that array.*/
 
-		}
+	}
 	
 }
