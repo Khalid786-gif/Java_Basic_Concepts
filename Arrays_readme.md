@@ -204,7 +204,7 @@ The above example can also be written as String [ ]names = new String[100];  (Ar
 <br>
 
 
-		2) Two Dimensional Array :
+		2) Two Dimensional Array : https://github.com/Khalid786-gif/Java_Basic_Concepts/blob/main/Two_Dimensional_Array.java
   
   		package Arrays;
 
