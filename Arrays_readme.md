@@ -22,14 +22,14 @@ The above example can also be written as String [ ]names = new String[100];  (Ar
 
 ## Array Declaration
 
-### Single Dimensional Array:
+#### Single Dimensional Array:
 
      Static  - Approach1:     int A[] = new int[5]
 
      Dynamic - Approach2 :     int B[] ={10,20,30,40,50}
 
  
-### Two Dimensional Array:
+#### Two Dimensional Array:
 
     Static  - Approach1: int X[][] = new int[3][2]
 
@@ -41,7 +41,7 @@ The above example can also be written as String [ ]names = new String[100];  (Ar
 
 ## Array Initialization
   
-### Static Single Dimensional Array:
+#### Static Single Dimensional Array:
 
     A[0]=1;
     A[1]=2;
@@ -51,7 +51,7 @@ The above example can also be written as String [ ]names = new String[100];  (Ar
 
 <br>  
 
-### Static Two Dimensional Array:
+#### Static Two Dimensional Array:
 
      B[0][0] = 10;
      B[0][1] = 20;
