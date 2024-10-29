@@ -89,7 +89,8 @@ The above example can also be written as String [ ]names = new String[100];  (Ar
 
  Practical Examples Practised On Eclipse IDE:
  		1) Single Dimensional Array : 
-		package Arrays;
+	
+ 	package Arrays;
 
 	import java.util.Arrays;
 
