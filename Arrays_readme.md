@@ -58,25 +58,45 @@ The above example can also be written as String [ ]names = new String[100];  (Ar
      a[2][1] = 60;
 
 
-## Array Length/Size
-
-     Every array in Java has a property called length, which holds the number of elements in that array.
-     The length attribute is not a method (no parentheses are needed)
-
-     Syntax : ArrayVariableName.length;
-
-     Example for Single Dimensional Array: System.out.println("Length/Size of Array(A):"+numbers.length); // Expected Output : 5
-
-     ### Finding length of Two Dimensional Array
-
-          To find the length of a two-dimensional array in Java:
-          Finding number of rows : Using length property of an array, find the length of the main array itself.
-		Finding number of columns : find the length of each row to find the number of columns in that row using array length property.
-
      
+## Finding Array Length/Size
+
+  Every array in Java has a property called length, which holds the number of elements in that array.
+  The length attribute is not a method (no parentheses are needed)
+
+  Syntax : ArrayVariableName.length;
+
+  Example : System.out.println("Length/Size of Array(A):"+A.length); // Output : 5;
+
+  To find the length of a two-dimensional array in Java:
+  1) Finding number of rows - Using length property of an array, find the length of the main array itself.
+  2) Finding number of columns - find the length of each row to find the number of columns in that row using array length property
+
+  Syntax : Count of row: ArrayVariableName.length;
+           Count of Column: ArrayVariableName[0].length;
+
+  Example : System.out.println("Number of rows: "+X.length);  // Output : 3
+	    System.out.println("Number of Colums: "+X[0].length);  // Output : 2
+
+
+ ## Reading/Accessing of Array Data Elements
+
+ 1) Accessing single data element using Array Indexing.
+ 3) Accessing all array elements - Using Normal forLoop.
+ 4) Accessing all array elements - Using Enhanced for-each Loop.
+ 5) Accessing all array data elements at once using Arrays.deepToString() method.
+
+
+ Practical Examples Practised On Eclipse IDE:
+ 		1) Single Dimensional Array : 
 
 
 
+
+	
+  
+
+  
 
    
 
