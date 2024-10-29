@@ -101,7 +101,7 @@ The above example can also be written as String [ ]names = new String[100];  (Ar
 <br>
 
 
- Practical Examples Practised On Eclipse IDE:
+ Practical Examples:
  
  	1) Single Dimensional Array : https://github.com/Khalid786-gif/Java_Basic_Concepts/blob/main/Single_Dimensional_Array.java
     
