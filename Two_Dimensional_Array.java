@@ -58,17 +58,17 @@ public static void main(String[] args) {
 			                System.out.println(x);
 			        }
 					
-        	//Accessing all array data elements at once using Arrays.toString() method 
-	        	/*In Java, if you want to print all the values of an array at once, 
-			* you can use Arrays.toString() method from the java.util.Arrays class.
-			* Syntax : Arrays.toString(ArrayVariableName)*/
+        //Accessing all array data elements at once using Arrays.toString() method 
+	/*In Java, if you want to print all the values of an array at once, 
+		* you can use Arrays.toString() method from the java.util.Arrays class.
+		* Syntax : Arrays.toString(ArrayVariableName)*/
 					
-			        System.out.println("Elements of Array(numbers) using Array method: "+Arrays.toString(numbers));
-			        System.out.println("Elements of Array(Levels_Of_Testings) using Array method: "+Arrays.toString(Levels_Of_Testings));
+			System.out.println("Elements of Array(numbers) using Array method: "+Arrays.toString(numbers));
+			System.out.println("Elements of Array(Levels_Of_Testings) using Array method: "+Arrays.toString(Levels_Of_Testings));
 					
-	        /*Additional Info : Explanation - Arrays.toString(numbers)
-		        * Arrays is a class in the java.util package that provides various utility methods for working with arrays.  
-		        * toString(numbers) is a static method of the Arrays class that takes an array as an argument and returns a string representation of that array.*/
+	/*Additional Info : Explanation - Arrays.toString(numbers)
+		* Arrays is a class in the java.util package that provides various utility methods for working with arrays.  
+		* toString(numbers) is a static method of the Arrays class that takes an array as an argument and returns a string representation of that array.*/
 
 		}
 	
