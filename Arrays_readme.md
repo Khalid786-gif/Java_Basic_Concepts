@@ -202,7 +202,7 @@ The above example can also be written as String [ ]names = new String[100];  (Ar
 <br>
 
 
-		1) Single Dimensional Array :
+		2) Two Dimensional Array :
   
   		package Arrays;
 
