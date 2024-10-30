@@ -97,6 +97,7 @@ The above example can also be written as String [ ]names = new String[100];  (Ar
  3) Accessing all array elements - Using Normal forLoop.
  4) Accessing all array elements - Using Enhanced for-each Loop.
  5) Accessing all array data elements at once using Arrays.deepToString() method.
+ 6) Accessing all the values of an array at once - Using Arrays.toString() method.
 
 <br>
 
