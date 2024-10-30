@@ -28,7 +28,7 @@ Two Ways:
 
 <li><b>Immutable</b>:   Once a string is created, it cannot be changed. If you modify a string, a new string is created instead of altering the original one.</li>
 
-<li><b>String Length</b>:   You can find out how many characters are in a string using the length() method.</li>
+<li><b>String Length</b>:   You can find out how many characters are in a string using the length() method. Example : int length = str.length();</li>
 
 <br>
 
@@ -139,10 +139,19 @@ Two Ways:
 
 9) split() : Splits into multiple string based on specificed delimiter (Like @, #, . , !)
 
-	In simple words: Converts a string into array of strings by specifing delimiter.
+	In simple words: Converts a string into array of strings based on specified delimiter passsed as an argument.
 
     		Ex    	String mail = bkhalid90712@gmail.com
     			mail.split("@"); //returns bkhalid and gmail.com as string of array like ["bkhalid", "gmail.com"]
+   
+   <br>
+
+ ## Converting String to Integer data type   |  Other data type to String
+
+ <li>Conversion to Integer: int num = Integer.parseInt("123");</li>
+ <li>Conversion to String: String numStr = String.valueOf(123);</li>
+
+    
 
        		
    
