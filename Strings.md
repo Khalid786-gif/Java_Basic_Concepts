@@ -26,7 +26,7 @@ Two Ways:
 
 ## Basic String Characteristics
 
-<li><b>Immutable</b>:   Once a string is created, it cannot be changed. If you modify a string, a new string is created instead of altering the original one.</li>
+<li><b>Immutable</b>:Once a string is created, it cannot be changed.If we try modify a string, a new string is created instead of altering the original one.</li>
 
 <li><b>String Length</b>:   You can find out how many characters are in a string using the length() method. Example : int length = str.length();</li>
 
